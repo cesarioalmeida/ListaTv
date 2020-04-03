@@ -21,5 +21,14 @@ http://94.63.89.230:9981/stream/channelid/2140269129
 #EXTINF:-1 tvg-id="CMTV" group-title="Portugal",CMTV
 http://94.63.89.230:9981/stream/channelid/1445845294
 
-#EXTINF:-1, tvg-id="BOLATV" group-title="Portugal",A Bola TV
+#EXTINF:-1 tvg-id="BOLATV" group-title="Portugal",A Bola TV
 http://94.63.89.230:9981/stream/channelid/1764060077
+
+#EXTINF:-1 tvg-id="SICC" group-title="Portugal",SIC Caras
+http://live.impresa.pt/live/siccaras/siccaras.m3u8
+
+#EXTINF:-1 group-title="Taiwan",TVBS
+plugin://plugin.video.youtube/play/?video_id=Hu1FkdAOws0
+
+#EXTINF:-1 group-title="Taiwan",CTI
+plugin://plugin.video.youtube/play/?video_id=wUPPkSANpyo
