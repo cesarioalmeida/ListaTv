@@ -28,7 +28,7 @@ http://94.63.89.230:9981/stream/channelid/1764060077
 http://live.impresa.pt/live/siccaras/siccaras.m3u8
 
 #EXTINF:-1 group-title="Taiwan",TVBS
-plugin://plugin.video.youtube/play/?video_id=Hu1FkdAOws0
+avi,LG Web OS 1,http://www.youtube.com/watch?v=Hu1FkdAOws0
 
 #EXTINF:-1 group-title="Taiwan",CTI
-plugin://plugin.video.youtube/play/?video_id=wUPPkSANpyo
+avi,LG Web OS 2,http://www.youtube.com/watch?v=wUPPkSANpyo
