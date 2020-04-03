@@ -12,23 +12,46 @@ http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-id="TVI" group-title="Portugal",TVI
 http://94.63.89.230:9981/stream/channelid/604183278
 
-#EXTINF:-1 tvg-id="SICN" group-title="Portugal",SIC Notícias
+#EXTINF:-1 group-title="Portugal",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
-#EXTINF:-1 tvg-id="TVI24" group-title="Portugal",TVI 24
+#EXTINF:-1 group-title="Portugal",TVI 24
 http://94.63.89.230:9981/stream/channelid/2140269129
 
-#EXTINF:-1 tvg-id="CMTV" group-title="Portugal",CMTV
+#EXTINF:-1 group-title="Portugal",CMTV
 http://94.63.89.230:9981/stream/channelid/1445845294
 
-#EXTINF:-1 tvg-id="BOLATV" group-title="Portugal",A Bola TV
+#EXTINF:-1 group-title="Portugal",A Bola TV
 http://94.63.89.230:9981/stream/channelid/1764060077
 
-#EXTINF:-1 tvg-id="SICC" group-title="Portugal",SIC Caras
+#EXTINF:-1 group-title="Portugal",SIC Caras
 http://live.impresa.pt/live/siccaras/siccaras.m3u8
 
-#EXTINF:-1 group-title="Taiwan",TVBS
-avi,LG Web OS 1,http://www.youtube.com/watch?v=Hu1FkdAOws0
+#EXTINF:-1 group-title="Spain",TVE 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
-#EXTINF:-1 group-title="Taiwan",CTI
-avi,LG Web OS 2,http://www.youtube.com/watch?v=wUPPkSANpyo
+#EXTINF:-1 group-title="Spain",TVE 2
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
+
+#EXTINF:-1 group-title="Spain",Antena 3
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+
+#EXTINF:-1 group-title="Spain",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+
+#EXTINF:-1 group-title="Spain",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+
+#EXTINF:-1 group-title="Spain",Sexta
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+
+#EXTINF:-1 group-title="Spain",Canal Sur
+https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+
+#EXTINF:-1 group-title="Spain",Canal Flamenco
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain",El Toro TV
+https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
+
+
