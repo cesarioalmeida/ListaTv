@@ -2,16 +2,12 @@
 #PLAYLIST:hlscat.com
 #EXTINF:0 tvg-country="TW" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?deviceType=3&imageId=OTTLIVE_0000001752.png" group-title="Documentary",CNEX Taiwan
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News",FTV News,民視新聞台
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News",FTV News
 http://210.61.56.23/hls/ftvtv/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="HK;TW" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News;Undefined",FTV News,民视新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News",FTV News,民視新聞台
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="News",TVBS News,TVBS新聞台
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="News",TVBS新聞台
-http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="TW" tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/04/TVBS-G.jpg" group-title="Entertainment",TVBS歡樂台
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE?checkedby:hlscat.com
 #EXTINF:0 tvg-country="TW" tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="Local;Undefined",信吉电视,信吉電視
