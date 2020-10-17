@@ -1,31 +1,206 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RTP1" group-title="Portugal",RTP 1
-http://94.63.89.230:9981/stream/channelid/1386403941
-
-#EXTINF:-1 tvg-id="RTP2" group-title="Portugal",RTP 2
-http://94.63.89.230:9981/stream/channelid/1915821567
-
-#EXTINF:-1 tvg-id="SIC" group-title="Portugal",SIC
+#EXTINF:-1 tvg-id="SIC" tvg-logo="https://ptiptv.tk/logo?i=SIC" group-title="Entertainment",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
 
-#EXTINF:-1 tvg-id="TVI" group-title="Portugal",TVI
-http://94.63.89.230:9981/stream/channelid/604183278
-
-#EXTINF:-1 group-title="Portugal",SIC Notícias
+#EXTINF:-1 tvg-id="SICN" tvg-logo="https://ptiptv.tk/logo?i=SICN" group-title="News",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
-#EXTINF:-1 group-title="Portugal",TVI 24
-http://94.63.89.230:9981/stream/channelid/2140269129
+#EXTINF:-1 tvg-id="ARTV" tvg-logo="https://ptiptv.tk/logo?i=ARTV" group-title="News",ARTV
+https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal",CMTV
-http://94.63.89.230:9981/stream/channelid/1445845294
+#EXTINF:-1 tvg-id="PORTO" tvg-logo="https://ptiptv.tk/logo?i=PORTO" group-title="Entertainment",Porto Canal
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal",A Bola TV
-http://94.63.89.230:9981/stream/channelid/1764060077
+#EXTINF:-1 tvg-id="SKYN" tvg-logo="https://ptiptv.tk/logo?i=SKYN" tvg-language="en" group-title="News",Sky News (en)
+http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8
 
-#EXTINF:-1 group-title="Portugal",SIC Caras
-http://live.impresa.pt/live/siccaras/siccaras.m3u8
+#EXTINF:-1 tvg-id="BLOOM" tvg-logo="https://ptiptv.tk/logo?i=BLOOM" tvg-language="en" group-title="News",Bloomberg (en)
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-id="FR24I" tvg-logo="https://ptiptv.tk/logo?i=FR24I" tvg-language="en" group-title="News",France 24 (en)
+http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-id="DW-TV" tvg-logo="https://ptiptv.tk/logo?i=DW-TV" tvg-language="en" group-title="News",Deutsche Welle (en)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://ptiptv.tk/logo?i=ALJAZ" tvg-language="en" group-title="News",Al Jazeera (en)
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="RUSST" tvg-logo="https://ptiptv.tk/logo?i=RUSST" tvg-language="en" group-title="News",Russia Today (en)
+http://rt-news.secure.footprint.net/1103.m3u8
+
+#EXTINF:-1 tvg-id="NHKHD" tvg-logo="https://ptiptv.tk/logo?i=NHKHD" tvg-language="en" group-title="News",NHK World (en)
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://ptiptv.tk/logo?i=CGTN" tvg-language="en" group-title="News",CGTN (en)
+http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDHD" tvg-logo="https://ptiptv.tk/logo?i=CGTNDHD" tvg-language="en" group-title="Documentary",CGTN Documentary (en)
+http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 tvg-id="TVE24" tvg-logo="https://ptiptv.tk/logo?i=TVE24" tvg-language="es" group-title="News",TVE 24h (es)
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TVEI" tvg-language="es" group-title="Entertainment",TVE (es)
+http://rtvelivestream.akamaized.net/la1_dvr.m3u8
+
+#EXTINF:-1 tvg-id="TVGAL" tvg-logo="https://ptiptv.tk/logo?i=TVGAL" tvg-country="ES" tvg-language="gl" group-title="Entertainment",TV Galicia (gl)
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FR24F" tvg-logo="https://ptiptv.tk/logo?i=FR24F" tvg-language="fr" group-title="News",France 24 (fr)
+http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-id="TV5" tvg-logo="https://ptiptv.tk/logo?i=TV5" tvg-language="fr" group-title="Entertainment",TV5 Monde (fr)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+
+#EXTINF:-1 tvg-id="RAINEWS" tvg-logo="https://ptiptv.tk/logo?i=RAINEWS" tvg-language="it" group-title="News",Rai News 24 (it)
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DWTVA" tvg-logo="https://ptiptv.tk/logo?i=DWTVA" tvg-language="de" group-title="News",Deutsche Welle (de)
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+
+#EXTINF:-1 tvg-id="FTV" tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV Midnight Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",24 KITCHEN HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116585?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",A BOLA TV FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116727?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",A&E FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116749?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AMC HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116650?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN BLACK FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116700?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116701?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BABY FIRST HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116584?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BBC ENTERTAINEMENT
+http://31.220.40.44:80/Ung_debernardi123/mag322/115585?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BBC World News FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116714?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BBC World News HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116595?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BENFICA TV
+http://31.220.40.44:80/Ung_debernardi123/mag322/115587?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",CACA E PESCA FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116697?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",CACA VISION HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116602?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",CANAL Q FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116679?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",CBS REALITY HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116588?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT;US" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby;Undefined",Caca Vision,Caçavision (MQ),Caçavision (Opt-2) (New!),Ca�avision (Opt-2)
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT;US" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby;Undefined",Caca Vision,Caçavision (LQ),Caçavision (Opt-1) (New!),Ca�avision (Opt-1)
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT;US" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="Hobby;Undefined",Caca Vision,Caçavision (HQ),Caçavision (Opt-3) (New!),Ca�avision (Opt-3)
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",DISCOVERY HD SHOWCASE
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116587?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Discovery FHD Showcase
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110257?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 1 HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116667?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 3 FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116738?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 5 FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116740?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",EURONEWS HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116590?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 4 SD (back up)
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110276?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX LIFE HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116636?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX LIFE HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/115625?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",JIM JAM HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116582?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",KOMBAT SPORT HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116599?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Undefined",Kuriakos Cine,PT | Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Undefined",Kuriakos Kids,PT | Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious;Undefined",Kuriakos TV,Kuriakos TV (Backup)
+http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious;Undefined",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",NAT GEO HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116656?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",NICKELEDEON FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116694?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="General",Porto Canal
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",REAL MADRID TV FHD POR
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116734?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 2 FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116671?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 2 HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116628?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP MADEIRA FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116674?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP MEMORIA HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116623?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116677?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC KIDS HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116592?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC MULHER HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116620?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 FHD
+http://31.220.40.44:80/Ung_debernardi123/mag322/115660?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2 FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116744?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 SD
+http://31.220.40.44:80/Ung_debernardi123/mag322/115668?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4 FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116746?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Santuario De Fátimaᴴᴰ
+http://20foder.xyz:8080/NovaEra/panelBoss/210?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious;Undefined",Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 1 FHD
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110323?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TCV CABO VERDE
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110334?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TOROS TV HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116596?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TV CINE 2 Edition FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116710?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TV CINE 3 HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116642?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Religious",TV Fátima
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Undefined",TV Fátima
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Undefined",TV Fátima
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TV Globo
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110340?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TV RECORD
+http://31.220.40.44:80/Ung_debernardi123/mag322/115687?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine 1 FHD
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110344?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24 FHD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116682?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24 HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116614?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI FICCAO HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116617?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI HD
+http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/116616?checkedby:hlscat.com
 
 #EXTINF:-1 group-title="Spain",TVE 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
