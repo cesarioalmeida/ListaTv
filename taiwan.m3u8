@@ -1,46 +1,547 @@
 #EXTM3U
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?deviceType=3&imageId=OTTLIVE_0000001752.png" group-title="Documentary",CNEX Taiwan
-http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News",FTV News,民視新聞台
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News",FTV News
-http://210.61.56.23/hls/ftvtv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="HK;TW" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News;Undefined",FTV News,民视新聞
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/04/TVBS-G.jpg" group-title="Entertainment",TVBS歡樂台
-http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="Local;Undefined",信吉电视,信吉電視
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="Local",信吉電視
-http://220.130.241.203:1935/sjtv/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CN;TW" tvg-logo="https://pic.pimg.tw/sportcast/d28525d04fd7be954e32f9f0b344ee93_n.png" group-title="Sport;Undefined",博斯魅力,博斯魅力網
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",希望電視台
-https://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",希望電視台
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/08/Studio-Classroom-Logo-670x300.jpg" group-title="Education",空中英語教室
-http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播交通委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播內政委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播司法及法制委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播外交及國防委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播教育及文化委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播朝野協商
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播社會福利及衛生環境委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播經濟委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播財政委員會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播院會
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TW" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="Sport",緯來體育台
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:hlscat.com
+#EXTINF:-1,100%NL TV
+http://83.128.58.176:9981/play/a0au
+#EXTINF:-1,192TV
+http://83.128.58.176:9981/play/a08z
+#EXTINF:-1,24 Kitchen HD
+http://83.128.58.176:9981/play/a024
+#EXTINF:-1,24Kitchen
+http://83.128.58.176:9981/play/a09w
+#EXTINF:-1,2e Kamer Radio
+http://83.128.58.176:9981/play/a030
+#EXTINF:-1,538
+http://83.128.58.176:9981/play/a07p
+#EXTINF:-1,ARD Das Erste
+http://83.128.58.176:9981/play/a03y
+#EXTINF:-1,ARD Das Erste HD
+http://83.128.58.176:9981/play/a02r
+#EXTINF:-1,ARTE
+http://83.128.58.176:9981/play/a09m
+#EXTINF:-1,AT5
+http://83.128.58.176:9981/play/a02q
+#EXTINF:-1,Al Jazeera English
+http://83.128.58.176:9981/play/a09x
+#EXTINF:-1,Animal Planet HD
+http://83.128.58.176:9981/play/a01l
+#EXTINF:-1,Arrow Rock
+http://83.128.58.176:9981/play/a0by
+#EXTINF:-1,Arrow Rock
+http://83.128.58.176:9981/play/a03i
+#EXTINF:-1,Arte HD
+http://83.128.58.176:9981/play/a01s
+#EXTINF:-1,BBC First
+http://83.128.58.176:9981/play/a01i
+#EXTINF:-1,BBC First HD
+http://83.128.58.176:9981/play/a02b
+#EXTINF:-1,BBC One
+http://83.128.58.176:9981/play/a065
+#EXTINF:-1,BBC One HD
+http://83.128.58.176:9981/play/a02e
+#EXTINF:-1,BBC Radio 1
+http://83.128.58.176:9981/play/a036
+#EXTINF:-1,BBC Radio 2
+http://83.128.58.176:9981/play/a037
+#EXTINF:-1,BBC Radio 3
+http://83.128.58.176:9981/play/a038
+#EXTINF:-1,BBC Radio 4
+http://83.128.58.176:9981/play/a03b
+#EXTINF:-1,BBC Two
+http://83.128.58.176:9981/play/a066
+#EXTINF:-1,BBC Two HD
+http://83.128.58.176:9981/play/a0bb
+#EXTINF:-1,BBC World
+http://83.128.58.176:9981/play/a0ar
+#EXTINF:-1,BBC World News HD
+http://83.128.58.176:9981/play/a00n
+#EXTINF:-1,BBC World Service
+http://83.128.58.176:9981/play/a039
+#EXTINF:-1,BNR Nieuwsradio
+http://83.128.58.176:9981/play/a03q
+#EXTINF:-1,Baby TV
+http://83.128.58.176:9981/play/a03o
+#EXTINF:-1,Beek TV
+http://83.128.58.176:9981/play/a01r
+#EXTINF:-1,Boomerang
+http://83.128.58.176:9981/play/a09b
+#EXTINF:-1,Brazzers TV
+http://83.128.58.176:9981/play/a00w
+#EXTINF:-1,CNN International
+http://83.128.58.176:9981/play/a0at
+#EXTINF:-1,Canvas
+http://83.128.58.176:9981/play/a05t
+#EXTINF:-1,Canvas HD
+http://83.128.58.176:9981/play/a06f
+#EXTINF:-1,Cartoon Network
+http://83.128.58.176:9981/play/a0am
+#EXTINF:-1,City FM
+http://83.128.58.176:9981/play/a0c1
+#EXTINF:-1,City FM
+http://83.128.58.176:9981/play/a03l
+#EXTINF:-1,Comedy Central
+http://83.128.58.176:9981/play/a07k
+#EXTINF:-1,Comedy Central Extra
+http://83.128.58.176:9981/play/a0aw
+#EXTINF:-1,Comedy Central HD
+http://83.128.58.176:9981/play/a098
+#EXTINF:-1,Concertzender
+http://83.128.58.176:9981/play/a07o
+#EXTINF:-1,Crime & Investigation
+http://83.128.58.176:9981/play/a09z
+#EXTINF:-1,Den Haag FM
+http://83.128.58.176:9981/play/a0c0
+#EXTINF:-1,Den Haag FM
+http://83.128.58.176:9981/play/a03k
+#EXTINF:-1,Deutsche Welle
+http://83.128.58.176:9981/play/a040
+#EXTINF:-1,Disc. Science
+http://83.128.58.176:9981/play/a09d
+#EXTINF:-1,Discovery Channel
+http://83.128.58.176:9981/play/a08u
+#EXTINF:-1,Discovery Channel HD
+http://83.128.58.176:9981/play/a0ak
+#EXTINF:-1,Discovery ID HD
+http://83.128.58.176:9981/play/a00s
+#EXTINF:-1,Discovery World
+http://83.128.58.176:9981/play/a09c
+#EXTINF:-1,Disney-NL
+http://83.128.58.176:9981/play/a054
+#EXTINF:-1,Disney-NL HD
+http://83.128.58.176:9981/play/a02h
+#EXTINF:-1,Dorcel TV
+http://83.128.58.176:9981/play/a075
+#EXTINF:-1,Dusk!
+http://83.128.58.176:9981/play/a0ba
+#EXTINF:-1,Een HD
+http://83.128.58.176:9981/play/a06e
+#EXTINF:-1,Efteling Radio
+http://83.128.58.176:9981/play/a03d
+#EXTINF:-1,Eurosport 1
+http://83.128.58.176:9981/play/a021
+#EXTINF:-1,Eurosport 1 HD
+http://83.128.58.176:9981/play/a06q
+#EXTINF:-1,Eurosport 2
+http://83.128.58.176:9981/play/a02o
+#EXTINF:-1,Eurosport 2 HD
+http://83.128.58.176:9981/play/a017
+#EXTINF:-1,FIP
+http://83.128.58.176:9981/play/a063
+#EXTINF:-1,FOX HD
+http://83.128.58.176:9981/play/a01n
+#EXTINF:-1,Family7
+http://83.128.58.176:9981/play/a03u
+#EXTINF:-1,Fashion TV
+http://83.128.58.176:9981/play/a044
+#EXTINF:-1,Fashion TV HD
+http://83.128.58.176:9981/play/a06p
+#EXTINF:-1,Film1 Action HD
+http://83.128.58.176:9981/play/a02m
+#EXTINF:-1,Film1 Drama HD
+http://83.128.58.176:9981/play/a02k
+#EXTINF:-1,Film1 Family HD
+http://83.128.58.176:9981/play/a02l
+#EXTINF:-1,Film1 Premiere HD
+http://83.128.58.176:9981/play/a013
+#EXTINF:-1,Fox Sports 1
+http://83.128.58.176:9981/play/a0bj
+#EXTINF:-1,Fox Sports 1 HD
+http://83.128.58.176:9981/play/a0b3
+#EXTINF:-1,Fox Sports 2
+http://83.128.58.176:9981/play/a0bk
+#EXTINF:-1,Fox Sports 2 HD
+http://83.128.58.176:9981/play/a06g
+#EXTINF:-1,Fox Sports 3
+http://83.128.58.176:9981/play/a085
+#EXTINF:-1,Fox Sports 3 HD
+http://83.128.58.176:9981/play/a04m
+#EXTINF:-1,Fox Sports 4
+http://83.128.58.176:9981/play/a012
+#EXTINF:-1,Fox Sports 4 HD
+http://83.128.58.176:9981/play/a00r
+#EXTINF:-1,Fox Sports 5
+http://83.128.58.176:9981/play/a03h
+#EXTINF:-1,Fox Sports 5 HD
+http://83.128.58.176:9981/play/a00p
+#EXTINF:-1,Fox Sports 6
+http://83.128.58.176:9981/play/a06h
+#EXTINF:-1,Fun X
+http://83.128.58.176:9981/play/a056
+#EXTINF:-1,Gemeente Westland TV
+http://83.128.58.176:9981/play/a08v
+#EXTINF:-1,History
+http://83.128.58.176:9981/play/a07e
+#EXTINF:-1,History HD
+http://83.128.58.176:9981/play/a04o
+#EXTINF:-1,Horse & Country
+http://83.128.58.176:9981/play/a06n
+#EXTINF:-1,Hustler TV
+http://83.128.58.176:9981/play/a010
+#EXTINF:-1,ID
+http://83.128.58.176:9981/play/a09e
+#EXTINF:-1,Insight HD
+http://83.128.58.176:9981/play/a01a
+#EXTINF:-1,Ketnet
+http://83.128.58.176:9981/play/a01f
+#EXTINF:-1,Kika
+http://83.128.58.176:9981/play/a02a
+#EXTINF:-1,Klara
+http://83.128.58.176:9981/play/a05w
+#EXTINF:-1,L1
+http://83.128.58.176:9981/play/a0b0
+#EXTINF:-1,L1 Radio
+http://83.128.58.176:9981/play/a0b5
+#EXTINF:-1,LO KRIMPEN
+http://83.128.58.176:9981/play/a00c
+#EXTINF:-1,Lokaal/Regionaal
+http://83.128.58.176:9981/play/a00j
+#EXTINF:-1,Lokaal/Regionaal
+http://83.128.58.176:9981/play/a00i
+#EXTINF:-1,Lokaal/Regionaal
+http://83.128.58.176:9981/play/a00h
+#EXTINF:-1,Lokaal/Regionaal
+http://83.128.58.176:9981/play/a00g
+#EXTINF:-1,Lokaal/Regionaal
+http://83.128.58.176:9981/play/a00e
+#EXTINF:-1,MNM
+http://83.128.58.176:9981/play/a061
+#EXTINF:-1,MTV Brand New
+http://83.128.58.176:9981/play/a029
+#EXTINF:-1,MTV Music 24
+http://83.128.58.176:9981/play/a027
+#EXTINF:-1,MTV NL
+http://83.128.58.176:9981/play/a03w
+#EXTINF:-1,MTV NL HD
+http://83.128.58.176:9981/play/a07d
+#EXTINF:-1,Meiden van Holland Hard
+http://83.128.58.176:9981/play/a01k
+#EXTINF:-1,Mezzo
+http://83.128.58.176:9981/play/a068
+#EXTINF:-1,NDR 2
+http://83.128.58.176:9981/play/a02t
+#EXTINF:-1,NDR Kultur
+http://83.128.58.176:9981/play/a03z
+#EXTINF:-1,NET5
+http://83.128.58.176:9981/play/a07j
+#EXTINF:-1,NPO 1
+http://83.128.58.176:9981/play/a04u
+#EXTINF:-1,NPO 1 HD
+http://83.128.58.176:9981/play/a00v
+#EXTINF:-1,NPO 1 extra
+http://83.128.58.176:9981/play/a01x
+#EXTINF:-1,NPO 2
+http://83.128.58.176:9981/play/a04v
+#EXTINF:-1,NPO 2 HD
+http://83.128.58.176:9981/play/a01v
+#EXTINF:-1,NPO 2 extra
+http://83.128.58.176:9981/play/a02p
+#EXTINF:-1,NPO 3
+http://83.128.58.176:9981/play/a04w
+#EXTINF:-1,NPO 3 HD
+http://83.128.58.176:9981/play/a01w
+#EXTINF:-1,NPO 3FM
+http://83.128.58.176:9981/play/a051
+#EXTINF:-1,NPO Nieuws
+http://83.128.58.176:9981/play/a069
+#EXTINF:-1,NPO Politiek
+http://83.128.58.176:9981/play/a06w
+#EXTINF:-1,NPO Radio 1
+http://83.128.58.176:9981/play/a04z
+#EXTINF:-1,NPO Radio 2
+http://83.128.58.176:9981/play/a050
+#EXTINF:-1,NPO Radio 2 Soul & Jazz
+http://83.128.58.176:9981/play/a04x
+#EXTINF:-1,NPO Radio 4
+http://83.128.58.176:9981/play/a052
+#EXTINF:-1,NPO Radio 5
+http://83.128.58.176:9981/play/a04y
+#EXTINF:-1,NPO Zappelin Extra
+http://83.128.58.176:9981/play/a06u
+#EXTINF:-1,Nat Geo Wild
+http://83.128.58.176:9981/play/a06t
+#EXTINF:-1,Nat Geo Wild HD
+http://83.128.58.176:9981/play/a0al
+#EXTINF:-1,National Geographic
+http://83.128.58.176:9981/play/a022
+#EXTINF:-1,National Geographic HD
+http://83.128.58.176:9981/play/a09v
+#EXTINF:-1,Net5 HD
+http://83.128.58.176:9981/play/a034
+#EXTINF:-1,Nick Jr
+http://83.128.58.176:9981/play/a07x
+#EXTINF:-1,Nick Music
+http://83.128.58.176:9981/play/a09a
+#EXTINF:-1,Nick Toons
+http://83.128.58.176:9981/play/a015
+#EXTINF:-1,Nickelodeon
+http://83.128.58.176:9981/play/a05v
+#EXTINF:-1,Nickelodeon HD
+http://83.128.58.176:9981/play/a07u
+#EXTINF:-1,ONS
+http://83.128.58.176:9981/play/a09i
+#EXTINF:-1,Omroep Brabant
+http://83.128.58.176:9981/play/a062
+#EXTINF:-1,Omroep Brabant Radio
+http://83.128.58.176:9981/play/a09f
+#EXTINF:-1,Omroep Flevoland
+http://83.128.58.176:9981/play/a0c3
+#EXTINF:-1,Omroep Flevoland
+http://83.128.58.176:9981/play/a03n
+#EXTINF:-1,Omroep Zeeland
+http://83.128.58.176:9981/play/a0b2
+#EXTINF:-1,Omroep Zeeland Radio
+http://83.128.58.176:9981/play/a0b7
+#EXTINF:-1,Omrop Fryslan
+http://83.128.58.176:9981/play/a0az
+#EXTINF:-1,Omrop Fryslan Radio
+http://83.128.58.176:9981/play/a0b4
+#EXTINF:-1,Out TV
+http://83.128.58.176:9981/play/a076
+#EXTINF:-1,Pebble TV
+http://83.128.58.176:9981/play/a0aq
+#EXTINF:-1,Penthouse
+http://83.128.58.176:9981/play/a0ce
+#EXTINF:-1,Q Music
+http://83.128.58.176:9981/play/a0bz
+#EXTINF:-1,Q Music
+http://83.128.58.176:9981/play/a03j
+#EXTINF:-1,RAI Radio 1
+http://83.128.58.176:9981/play/a02z
+#EXTINF:-1,RFI
+http://83.128.58.176:9981/play/a02y
+#EXTINF:-1,RNE Radio
+http://83.128.58.176:9981/play/a02x
+#EXTINF:-1,RTL Crime
+http://83.128.58.176:9981/play/a07f
+#EXTINF:-1,RTL Lounge
+http://83.128.58.176:9981/play/a095
+#EXTINF:-1,RTL Telekids
+http://83.128.58.176:9981/play/a07t
+#EXTINF:-1,RTL Z
+http://83.128.58.176:9981/play/a02i
+#EXTINF:-1,RTL Z HD
+http://83.128.58.176:9981/play/a0bf
+#EXTINF:-1,RTL4
+http://83.128.58.176:9981/play/a032
+#EXTINF:-1,RTL4 HD
+http://83.128.58.176:9981/play/a06j
+#EXTINF:-1,RTL5
+http://83.128.58.176:9981/play/a033
+#EXTINF:-1,RTL5 HD
+http://83.128.58.176:9981/play/a06k
+#EXTINF:-1,RTL7
+http://83.128.58.176:9981/play/a035
+#EXTINF:-1,RTL7 HD
+http://83.128.58.176:9981/play/a01z
+#EXTINF:-1,RTL8
+http://83.128.58.176:9981/play/a07m
+#EXTINF:-1,RTL8 HD
+http://83.128.58.176:9981/play/a020
+#EXTINF:-1,RTV Krimpenerwaard
+http://83.128.58.176:9981/play/a00f
+#EXTINF:-1,Radio 10 Gold
+http://83.128.58.176:9981/play/a07n
+#EXTINF:-1,Radio Aalsmeer
+http://83.128.58.176:9981/play/a07z
+#EXTINF:-1,Radio Capelle
+http://83.128.58.176:9981/play/a06c
+#EXTINF:-1,Radio Continu
+http://83.128.58.176:9981/play/a02s
+#EXTINF:-1,Radio Decibel
+http://83.128.58.176:9981/play/a099
+#EXTINF:-1,Radio Drenthe
+http://83.128.58.176:9981/play/a0b6
+#EXTINF:-1,Radio Flevoland
+http://83.128.58.176:9981/play/a0c5
+#EXTINF:-1,Radio Flevoland
+http://83.128.58.176:9981/play/a03p
+#EXTINF:-1,Radio Gelderland
+http://83.128.58.176:9981/play/a073
+#EXTINF:-1,Radio M Utrecht
+http://83.128.58.176:9981/play/a0c2
+#EXTINF:-1,Radio M Utrecht
+http://83.128.58.176:9981/play/a03m
+#EXTINF:-1,Radio Noord
+http://83.128.58.176:9981/play/a01c
+#EXTINF:-1,Radio Noord Holland
+http://83.128.58.176:9981/play/a07v
+#EXTINF:-1,Radio Oost
+http://83.128.58.176:9981/play/a01d
+#EXTINF:-1,Radio Rijnmond
+http://83.128.58.176:9981/play/a05z
+#EXTINF:-1,Radio Stichtse Vecht
+http://83.128.58.176:9981/play/a02g
+#EXTINF:-1,Radio West
+http://83.128.58.176:9981/play/a055
+#EXTINF:-1,Rick FM
+http://83.128.58.176:9981/play/a07y
+#EXTINF:-1,SBS 6
+http://83.128.58.176:9981/play/a07i
+#EXTINF:-1,SBS6 HD
+http://83.128.58.176:9981/play/a01h
+#EXTINF:-1,SBS9
+http://83.128.58.176:9981/play/a0bd
+#EXTINF:-1,SBS9 HD
+http://83.128.58.176:9981/play/a0be
+#EXTINF:-1,Schlager TV
+http://83.128.58.176:9981/play/a06r
+#EXTINF:-1,Shorts TV HD
+http://83.128.58.176:9981/play/a04n
+#EXTINF:-1,Showroom
+http://83.128.58.176:9981/play/a03v
+#EXTINF:-1,Sky Radio
+http://83.128.58.176:9981/play/a07q
+#EXTINF:-1,Slam! FM
+http://83.128.58.176:9981/play/a082
+#EXTINF:-1,Spike
+http://83.128.58.176:9981/play/a01o
+#EXTINF:-1,Spike HD
+http://83.128.58.176:9981/play/a00y
+#EXTINF:-1,Stingray All Day Party NL
+http://83.128.58.176:9981/play/a08r
+#EXTINF:-1,Stingray Alternative Rock
+http://83.128.58.176:9981/play/a04g
+#EXTINF:-1,Stingray Arabic
+http://83.128.58.176:9981/play/a0a9
+#EXTINF:-1,Stingray Blues
+http://83.128.58.176:9981/play/a08p
+#EXTINF:-1,Stingray Chill Lounge
+http://83.128.58.176:9981/play/a08e
+#EXTINF:-1,Stingray Classic RnB & Soul
+http://83.128.58.176:9981/play/a04a
+#EXTINF:-1,Stingray Classic Rock
+http://83.128.58.176:9981/play/a04e
+#EXTINF:-1,Stingray Classical
+http://83.128.58.176:9981/play/a08c
+#EXTINF:-1,Stingray Cocktail Lounge
+http://83.128.58.176:9981/play/a08d
+#EXTINF:-1,Stingray Comedy
+http://83.128.58.176:9981/play/a0a2
+#EXTINF:-1,Stingray Country
+http://83.128.58.176:9981/play/a0ab
+#EXTINF:-1,Stingray DJAZZ
+http://83.128.58.176:9981/play/a06o
+#EXTINF:-1,Stingray Dance
+http://83.128.58.176:9981/play/a04c
+#EXTINF:-1,Stingray Dance Classics
+http://83.128.58.176:9981/play/a0a5
+#EXTINF:-1,Stingray Drive
+http://83.128.58.176:9981/play/a04d
+#EXTINF:-1,Stingray Easy Listening
+http://83.128.58.176:9981/play/a0a4
+#EXTINF:-1,Stingray Espana
+http://83.128.58.176:9981/play/a047
+#EXTINF:-1,Stingray Filmmuziek
+http://83.128.58.176:9981/play/a08q
+#EXTINF:-1,Stingray France
+http://83.128.58.176:9981/play/a08g
+#EXTINF:-1,Stingray Hard Rock
+http://83.128.58.176:9981/play/a04f
+#EXTINF:-1,Stingray Hip Hop
+http://83.128.58.176:9981/play/a049
+#EXTINF:-1,Stingray Hits
+http://83.128.58.176:9981/play/a0a8
+#EXTINF:-1,Stingray Italia
+http://83.128.58.176:9981/play/a08j
+#EXTINF:-1,Stingray Jazz
+http://83.128.58.176:9981/play/a08o
+#EXTINF:-1,Stingray Jazz Classics
+http://83.128.58.176:9981/play/a08n
+#EXTINF:-1,Stingray Kiddo FM
+http://83.128.58.176:9981/play/a0a3
+#EXTINF:-1,Stingray Kleuterliedjes
+http://83.128.58.176:9981/play/a0ac
+#EXTINF:-1,Stingray Lounge
+http://83.128.58.176:9981/play/a08f
+#EXTINF:-1,Stingray Love Songs
+http://83.128.58.176:9981/play/a04j
+#EXTINF:-1,Stingray Motown
+http://83.128.58.176:9981/play/a08m
+#EXTINF:-1,Stingray Musical
+http://83.128.58.176:9981/play/a0af
+#EXTINF:-1,Stingray NL Luisterlied
+http://83.128.58.176:9981/play/a0ah
+#EXTINF:-1,Stingray Nederpop Gold
+http://83.128.58.176:9981/play/a0a0
+#EXTINF:-1,Stingray Nostalgie
+http://83.128.58.176:9981/play/a0aa
+#EXTINF:-1,Stingray Oldies
+http://83.128.58.176:9981/play/a0a6
+#EXTINF:-1,Stingray Opera
+http://83.128.58.176:9981/play/a08a
+#EXTINF:-1,Stingray Operette
+http://83.128.58.176:9981/play/a08b
+#EXTINF:-1,Stingray Piratenhits
+http://83.128.58.176:9981/play/a0a1
+#EXTINF:-1,Stingray Reggae
+http://83.128.58.176:9981/play/a08k
+#EXTINF:-1,Stingray Relipop
+http://83.128.58.176:9981/play/a08h
+#EXTINF:-1,Stingray Rock Anthems
+http://83.128.58.176:9981/play/a04h
+#EXTINF:-1,Stingray Rock N Roll
+http://83.128.58.176:9981/play/a048
+#EXTINF:-1,Stingray Salsa
+http://83.128.58.176:9981/play/a08i
+#EXTINF:-1,Stingray Schlager
+http://83.128.58.176:9981/play/a0ae
+#EXTINF:-1,Stingray Skihut
+http://83.128.58.176:9981/play/a0ag
+#EXTINF:-1,Stingray Specials
+http://83.128.58.176:9981/play/a0ad
+#EXTINF:-1,Stingray The Spa
+http://83.128.58.176:9981/play/a04i
+#EXTINF:-1,Stingray Today's Pop
+http://83.128.58.176:9981/play/a0a7
+#EXTINF:-1,Stingray Trance
+http://83.128.58.176:9981/play/a04b
+#EXTINF:-1,Stingray Turk
+http://83.128.58.176:9981/play/a08l
+#EXTINF:-1,Studio Brussel
+http://83.128.58.176:9981/play/a060
+#EXTINF:-1,Sublime FM
+http://83.128.58.176:9981/play/a080
+#EXTINF:-1,TC TV Rijnmond HD->SD
+http://83.128.58.176:9981/play/a00d
+#EXTINF:-1,TLC
+http://83.128.58.176:9981/play/a08t
+#EXTINF:-1,TLC HD
+http://83.128.58.176:9981/play/a07w
+#EXTINF:-1,TRT Turk
+http://83.128.58.176:9981/play/a07g
+#EXTINF:-1,TV 538
+http://83.128.58.176:9981/play/a067
+#EXTINF:-1,TV 538
+http://83.128.58.176:9981/play/a0cb
+#EXTINF:-1,TV Drenthe
+http://83.128.58.176:9981/play/a0b1
+#EXTINF:-1,TV Gelderland
+http://83.128.58.176:9981/play/a072
+#EXTINF:-1,TV Noord
+http://83.128.58.176:9981/play/a018
+#EXTINF:-1,TV Noord-Holland
+http://83.128.58.176:9981/play/a08x
+#EXTINF:-1,TV Oost
+http://83.128.58.176:9981/play/a019
+#EXTINF:-1,TV Oranje
+http://83.128.58.176:9981/play/a06z
+#EXTINF:-1,TV Rijnmond
+http://83.128.58.176:9981/play/a05u
+#EXTINF:-1,TV Stichtse Vecht
+http://83.128.58.176:9981/play/a02f
+#EXTINF:-1,TV Utrecht
+http://83.128.58.176:9981/play/a08w
+#EXTINF:-1,TV West
+http://83.128.58.176:9981/play/a053
+#EXTINF:-1,TV5 Monde
+http://83.128.58.176:9981/play/a08y
+#EXTINF:-1,VH1 Classic
+http://83.128.58.176:9981/play/a06a
+#EXTINF:-1,VICEtv
+http://83.128.58.176:9981/play/a06l
+#EXTINF:-1,VICEtv HD
+http://83.128.58.176:9981/play/a02c
+#EXTINF:-1,VLOH
+http://83.128.58.176:9981/play/a0c6
+#EXTINF:-1,VLOH
+http://83.128.58.176:9981/play/a03r
+#EXTINF:-1,VRT Radio1
+http://83.128.58.176:9981/play/a05x
