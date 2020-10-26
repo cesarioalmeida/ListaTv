@@ -1,97 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SIC" tvg-logo="https://ptiptv.tk/logo?i=SIC" group-title="Entertainment",SIC
+#EXTINF:-1 tvg-id="SIC" tvg-logo="https://ptiptv.tk/logo?i=SIC" group-title="Portugal",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
 
-#EXTINF:-1 tvg-id="SICN" tvg-logo="https://ptiptv.tk/logo?i=SICN" group-title="News",SIC Notícias
+#EXTINF:-1 tvg-id="SICN" tvg-logo="https://ptiptv.tk/logo?i=SICN" group-title="Portugal",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
-#EXTINF:-1 tvg-id="ARTV" tvg-logo="https://ptiptv.tk/logo?i=ARTV" group-title="News",ARTV
-https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="SICK" tvg-logo="https://ptiptv.tk/logo?i=SICK" group-title="Portugal",SIC K
+http://live.impresa.pt/live/sick/sick.m3u8
 
-#EXTINF:-1 tvg-id="PORTO" tvg-logo="https://ptiptv.tk/logo?i=PORTO" group-title="Entertainment",Porto Canal
+#EXTINF:-1 tvg-id="PORTO" tvg-logo="https://ptiptv.tk/logo?i=PORTO" group-title="Portugal",Porto Canal
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SKYN" tvg-logo="https://ptiptv.tk/logo?i=SKYN" tvg-language="en" group-title="News",Sky News (en)
-http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 tvg-id="NHKE" group-title="Japan",NHK E
+http://203.162.235.41:16901
 
-#EXTINF:-1 tvg-id="BLOOM" tvg-logo="https://ptiptv.tk/logo?i=BLOOM" tvg-language="en" group-title="News",Bloomberg (en)
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="NHKBS" group-title="Japan",NHK BS
+http://203.162.235.41:16910
 
-#EXTINF:-1 tvg-id="FR24I" tvg-logo="https://ptiptv.tk/logo?i=FR24I" tvg-language="en" group-title="News",France 24 (en)
-http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="TBS" group-title="Japan",TBS
+http://203.162.235.41:16907
 
-#EXTINF:-1 tvg-id="DW-TV" tvg-logo="https://ptiptv.tk/logo?i=DW-TV" tvg-language="en" group-title="News",Deutsche Welle (en)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF: -1, group-title="Japan",BS TBS
+http://203.162.235.41:16913
 
-#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://ptiptv.tk/logo?i=ALJAZ" tvg-language="en" group-title="News",Al Jazeera (en)
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF: -1, group-title="Japan",テレビ Asahi
+http://203.162.235.41:16906
 
-#EXTINF:-1 tvg-id="RUSST" tvg-logo="https://ptiptv.tk/logo?i=RUSST" tvg-language="en" group-title="News",Russia Today (en)
-http://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF: -1, group-title="Japan",BS Asahi
+http://203.162.235.41:16914
 
-#EXTINF:-1 tvg-id="NHKHD" tvg-logo="https://ptiptv.tk/logo?i=NHKHD" tvg-language="en" group-title="News",NHK World (en)
-http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF: -1, group-title="Japan",フジテレビ
+http://203.162.235.41:16904
 
-#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://ptiptv.tk/logo?i=CGTN" tvg-language="en" group-title="News",CGTN (en)
-http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF: -1, group-title="Japan",BSフジ
+http://203.162.235.41:16911
 
-#EXTINF:-1 tvg-id="CGTNDHD" tvg-logo="https://ptiptv.tk/logo?i=CGTNDHD" tvg-language="en" group-title="Documentary",CGTN Documentary (en)
-http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF: -1, group-title="Japan",テレビ Tokyo
+http://203.162.235.41:16908
 
-#EXTINF:-1 tvg-id="TVE24" tvg-logo="https://ptiptv.tk/logo?i=TVE24" tvg-language="es" group-title="News",TVE 24h (es)
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF: -1, group-title="Japan",BS Tokyo
+http://203.162.235.41:16915
 
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TVEI" tvg-language="es" group-title="Entertainment",TVE (es)
-http://rtvelivestream.akamaized.net/la1_dvr.m3u8
+#EXTINF: -1, group-title="Japan",BS日テレ
+http://203.162.235.41:16912
 
-#EXTINF:-1 tvg-id="TVGAL" tvg-logo="https://ptiptv.tk/logo?i=TVGAL" tvg-country="ES" tvg-language="gl" group-title="Entertainment",TV Galicia (gl)
-http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1, group-title="Japan",テレ
+http://203.162.235.41:16905
 
-#EXTINF:-1 tvg-id="FR24F" tvg-logo="https://ptiptv.tk/logo?i=FR24F" tvg-language="fr" group-title="News",France 24 (fr)
-http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF: -1, group-title="Japan",WOWOW シネマ
+http://203.162.235.41:16916
 
-#EXTINF:-1 tvg-id="TV5" tvg-logo="https://ptiptv.tk/logo?i=TV5" tvg-language="fr" group-title="Entertainment",TV5 Monde (fr)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF: -1, group-title="Japan",Gunma テレビ
+https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="RAINEWS" tvg-logo="https://ptiptv.tk/logo?i=RAINEWS" tvg-language="it" group-title="News",Rai News 24 (it)
-http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF: -1, group-title="Japan",Tokyo MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="DWTVA" tvg-logo="https://ptiptv.tk/logo?i=DWTVA" tvg-language="de" group-title="News",Deutsche Welle (de)
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF: -1, group-title="Japan",Tokyo MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="FTV" tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF: -1, group-title="Japan",MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF: -1, group-title="Japan",ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV Midnight Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Spain",TVE 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-
-#EXTINF:-1 group-title="Spain",TVE 2
-http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
-
-#EXTINF:-1 group-title="Spain",Antena 3
-https://livestartover-i.akamaized.net/antena3/master.m3u8
-
-#EXTINF:-1 group-title="Spain",Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-
-#EXTINF:-1 group-title="Spain",Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
-
-#EXTINF:-1 group-title="Spain",Sexta
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
-
-#EXTINF:-1 group-title="Spain",Canal Sur
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
-
-#EXTINF:-1 group-title="Spain",Canal Flamenco
-https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Spain",El Toro TV
-https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
+#EXTINF: -1, group-title="Japan",Japanet Channel DX, Japan
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
