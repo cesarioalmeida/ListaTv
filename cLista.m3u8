@@ -12,6 +12,9 @@ http://live.impresa.pt/live/sick/sick.m3u8
 #EXTINF:-1 tvg-id="PORTO" tvg-logo="https://ptiptv.tk/logo?i=PORTO" group-title="Portugal",Porto Canal
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 
+#EXTINF:-1 group-title="Japan",日テレ NEWS24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+
 #EXTINF:-1 tvg-id="NHKE" group-title="Japan",NHK E
 http://203.162.235.41:16901
 
@@ -21,50 +24,50 @@ http://203.162.235.41:16910
 #EXTINF:-1 tvg-id="TBS" group-title="Japan",TBS
 http://203.162.235.41:16907
 
-#EXTINF: -1, group-title="Japan",BS TBS
+#EXTINF: -1 group-title="Japan",BS TBS
 http://203.162.235.41:16913
 
-#EXTINF: -1, group-title="Japan",テレビ Asahi
+#EXTINF: -1 group-title="Japan",テレビ Asahi
 http://203.162.235.41:16906
 
-#EXTINF: -1, group-title="Japan",BS Asahi
+#EXTINF: -1 group-title="Japan",BS Asahi
 http://203.162.235.41:16914
 
-#EXTINF: -1, group-title="Japan",フジテレビ
+#EXTINF: -1 group-title="Japan",フジテレビ
 http://203.162.235.41:16904
 
-#EXTINF: -1, group-title="Japan",BSフジ
+#EXTINF: -1 group-title="Japan",BSフジ
 http://203.162.235.41:16911
 
-#EXTINF: -1, group-title="Japan",テレビ Tokyo
+#EXTINF: -1 group-title="Japan",テレビ Tokyo
 http://203.162.235.41:16908
 
-#EXTINF: -1, group-title="Japan",BS Tokyo
+#EXTINF: -1 group-title="Japan",BS Tokyo
 http://203.162.235.41:16915
 
-#EXTINF: -1, group-title="Japan",BS日テレ
+#EXTINF: -1 group-title="Japan",BS日テレ
 http://203.162.235.41:16912
 
-#EXTINF: -1, group-title="Japan",テレ
+#EXTINF: -1 group-title="Japan",テレ
 http://203.162.235.41:16905
 
-#EXTINF: -1, group-title="Japan",WOWOW シネマ
+#EXTINF: -1 group-title="Japan",WOWOW シネマ
 http://203.162.235.41:16916
 
-#EXTINF: -1, group-title="Japan",Gunma テレビ
+#EXTINF: -1 group-title="Japan",Gunma テレビ
 https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
 
-#EXTINF: -1, group-title="Japan",Tokyo MX 1
+#EXTINF: -1 group-title="Japan",Tokyo MX 1
 http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 
-#EXTINF: -1, group-title="Japan",Tokyo MX 2
+#EXTINF: -1 group-title="Japan",Tokyo MX 2
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 
-#EXTINF: -1, group-title="Japan",MX Live
+#EXTINF: -1 group-title="Japan",MX Live
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 
-#EXTINF: -1, group-title="Japan",ウェザーニュース
+#EXTINF: -1 group-title="Japan",ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
-#EXTINF: -1, group-title="Japan",Japanet Channel DX, Japan
+#EXTINF: -1 group-title="Japan",Japanet Channel DX, Japan
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
